@@ -1,0 +1,12 @@
+nombre = inpunt("escribe tu nombre") 
+apellido = inpunt("Escribe tu apellido")
+print("¿tu nombre es, "?")
+
+¿tu nombre es Paramo Guzman Romina ?
+
+nombre = input("ingrese su nombre")
+edad = int(input("Ingrese su edad"))
+año_nac = int(input("ingrese el año actual"))
+print(nombre, "El año en el que tu podrias tener 100 años de edad es en, año_nac-edad+100)
+
+El año en el que tu podrias tener 100 años de edad es en 18/10/2099
