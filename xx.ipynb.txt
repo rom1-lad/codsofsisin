@@ -1,0 +1,4 @@
+nombre = input("cual es tu nombre")
+edad = input("Que edad tienes") 
+profesion = input("Mi nombre es" , nombre ,"y tengo", edad. Tambien siempre he querido ser", profesion ,"¡Graciaspor leer"
+mi nombre es anni y tengo 23 casi 24 años 
