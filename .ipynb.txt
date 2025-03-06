@@ -1,0 +1,18 @@
+dubli= +6
+londres= +7
+los_angeles= -2 
+nueva_york= +2
+nueva_deli= +11.3
+hora mexico= input("ingresa el vaslor de la hora que quieres consultar: ")
+hora_mexico= int(hora_mexico)
+print("la hora en dublin seria: % 2f" %(hora _mexico+ dublin))
+print("la hora en londres seria: %2f" %(hora_mexico+ londres))
+print("la hora en los angeles seria: %2f %(hora_mexico+ los_angeles))
+print("la hora en nueva york seria: %2f %(hora_mexico+ nueva_york))
+print("la hora en nueva deli seria: %2f %(hora_mexico+ nueva_deli))
+
+la hora en duli es: 7:00
+la hora en londres es : 8:00
+la hora en los angeles es : 1:00
+la hora en nueva york es : 3:00
+la hora en nueva deli es : 12:30 
